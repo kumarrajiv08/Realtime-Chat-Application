@@ -6,4 +6,4 @@ This is a Realtime Chat Application. It uses React on the front end, with NodeJS
 
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- run ```npm i && npm start``` for both client and server side to start the development server.
